@@ -4,7 +4,7 @@
     </a>
 </p> 
 
-### [Project Title]
+### Ensemble Learning
 Hello,
 Welcome to.. {PROJECT BASIC INTRODUCTION]
 [PROJECT DOMAIN]
