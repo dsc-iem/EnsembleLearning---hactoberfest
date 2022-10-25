@@ -16,10 +16,11 @@
        git clone <repo lin>
        ```
 ## Running the project
-1. Mention down the points how to run the project locally.
+1. Install the required libraries thorugh pip install
+2. Jupyter lab/Notebook recommended
 
 ## How to contribute/ Creating a PR
-[Mention how to contribute or creating a successful PR]
+ 
 Like you want the contibutors to directly contibute in the main branch or create a separate branch for new PR.
 
 ## Recent updates
