@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://blogbook-blog.herokuapp.com/">
-        <img src="https://github.com/dsc-iem/EnsembleLearning-Hacktoberfest22/blob/main/Hfest-Logo-2-Color-Manga.svg" alt="[Project Logo]" width="30%"> 
+        <img src="https://github.com/ayushi2626/Logo/blob/main/ensembl_learning.jpg" alt="[Project Logo]" width="30%"> 
     </a>
 </p> 
 
