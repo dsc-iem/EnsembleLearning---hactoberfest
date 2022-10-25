@@ -28,8 +28,8 @@ Welcome to.. {PROJECT BASIC INTRODUCTION]
    
    [![GitHub issues](https://img.shields.io/github/issues/chaitak-gorai/Project-Template-Hacktoberfest22?color=pink&logo=github)](https://github.com/acm-iem/Project-Template-Hacktoberfest22/issues)        [![GitHub PRs](https://img.shields.io/github/issues-pr/chaitak-gorai/Project-Template-Hacktoberfest22?style=social&logo=github)](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/pulls)                    [![GitHub forks](https://img.shields.io/github/forks/chaitak-gorai/Project-Template-Hacktoberfest22?logo=git)](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/network)
    
-   <a href="https://github.com/dsc-iem/EnsembleLearning-Hacktoberfest/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/chaitak-gorai/Project-Template-Hacktoberfest22?color=2b9348"></a>
-<a href="https://github.com/dsc-iem/EnsembleLearning-Hacktoberfest22/blob/main/LICENSE"><img src="https://img.shields.io/github/license/chaitak-gorai/Project-Template-Hacktoberfest22?color=2b9348" alt="License Badge"/></a>
+   <a href="https://github.com/dsc-iem/EnsembleLearning-Hacktoberfest/contributors"><img alt="GitHub contributors" src="https://github.com/dsc-iem/EnsembleLearning-Hacktoberfest22"></a>
+<a href="https://github.com/dsc-iem/EnsembleLearning-Hacktoberfest22/blob/main/LICENSE"><img src="https://github.com/dsc-iem/EnsembleLearning-Hacktoberfest22" alt="License Badge"/></a>
 </div>
 
 ### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge and earn a limited edition T-shirt.
