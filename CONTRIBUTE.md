@@ -4,7 +4,7 @@
 ## Prerequisite
 * [Git](https://git-scm.com/downloads) 
 * Code Editor like [Vs Code](https://code.visualstudio.com/download)
-* Any other prerequisite
+ 
 
 ## Local Setup
 
@@ -24,6 +24,6 @@
 Like you want the contibutors to directly contibute in the main branch or create a separate branch for new PR.
 
 ## Recent updates
-[Mention any updates]
+None as of now
 
-## Any Other Info needed for the Contributions.
+ 
