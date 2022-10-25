@@ -6,10 +6,14 @@
 
 ### Ensemble Learning
 Hello,
-Welcome to.. {PROJECT BASIC INTRODUCTION]
+Welcome to Ensemble Learning where we combine two or more Machine learning models to get a better accuracy using bagging methos {PROJECT BASIC INTRODUCTION]
 [PROJECT DOMAIN]
 ### [PREREQUISITE KNOWLEDGE]
-* List down the technical aspects like HTML, NodeJs, Django
+* Python
+* Numpy
+* Pandas
+* Sklearn
+* Machine Learning concepts
 
 
 
@@ -28,7 +32,7 @@ Welcome to.. {PROJECT BASIC INTRODUCTION]
    
    [![GitHub issues](https://img.shields.io/github/issues/chaitak-gorai/Project-Template-Hacktoberfest22?color=pink&logo=github)](https://github.com/acm-iem/Project-Template-Hacktoberfest22/issues)        [![GitHub PRs](https://img.shields.io/github/issues-pr/chaitak-gorai/Project-Template-Hacktoberfest22?style=social&logo=github)](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/pulls)                    [![GitHub forks](https://img.shields.io/github/forks/chaitak-gorai/Project-Template-Hacktoberfest22?logo=git)](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/network)
    
-   <a href="https://github.com/dsc-iem/EnsembleLearning-Hacktoberfest/contributors"><img alt="GitHub contributors" src="https://github.com/dsc-iem/EnsembleLearning-Hacktoberfest22"></a>
+   <a href="[https://github.com/dsc-iem/EnsembleLearning-Hacktoberfest/contributors](https://github.com/dsc-iem/EnsembleLearning-Hacktoberfest22/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc)"><img alt="GitHub contributors" src="https://github.com/dsc-iem/EnsembleLearning-Hacktoberfest22"></a>
 <a href="https://github.com/dsc-iem/EnsembleLearning-Hacktoberfest22/blob/main/LICENSE"><img src="https://github.com/dsc-iem/EnsembleLearning-Hacktoberfest22" alt="License Badge"/></a>
 </div>
 
